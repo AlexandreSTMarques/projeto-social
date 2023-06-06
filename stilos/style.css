@@ -20,14 +20,18 @@ main{
     height: 100vh;
     
 }
+section{
+    padding: -20px;
+}
 section#telefone{ /* aqui é a id na section*/
     position: absolute;
     top: 50%;
     left:50% ;
-    transform: translate(-50%,-50%);
+    transform: translate(-45%,-45%);
     height: 627px;
     width: 311px;
      background:  url('../imagens/frame-iphone.png') no-repeat; 
+     
 
 }
 section#redes-sociais{
