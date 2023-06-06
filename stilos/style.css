@@ -39,7 +39,7 @@ section#redes-sociais img{
     margin: 10px;
     border-radius: 50px;
     box-shadow:2px 2px 5px rgba(0, 0, 0, 0.404) ;
-    box-sizing: border-box;
+    box-sizing: border-box; /* esse parâmetro limita os botões de serem acionados em conjunto*/
 }
 section#redes-sociais img:hover{
     border: 2px solid rgba(255, 0, 0, 0.5);
